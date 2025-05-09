@@ -39,10 +39,10 @@ The goal is to demonstrate data analysis, visualization, and business insight sk
 ---
 
 ## 📂 Project Components
-| Component              | Tool     | 
+| Component              | Tool     |  LINK |
 |------------------------|----------|
-| Data Exploration       | SQL      |
-| Data Cleaning & Analysis | Excel  | 
+| Data Exploration       | SQL      |#https://github.com/bagdatsarikas/unicorn-project/blob/main/unicorn.sql
+| Data Cleaning&Analysis | Excel    |#https://docs.google.com/spreadsheets/d/1mUdTqTfnpgD4yP1v1yo2VzFfWrQnBjKTZXD4sM7muDY/edit?usp=sharing
 | Data Visualization     | Tableau  |
 
 ---
