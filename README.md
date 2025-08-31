@@ -1,50 +1,71 @@
 
+# 🦄 UNICORN Marketplace Analytics Project 🦄  
 
-# 🦄 Unicorn Online Marketplace – Data Analytics Project
-**By Bagdat Sarıkaş**
-
-## 📌 Project Overview
-Unicorn is a dynamic e-commerce platform offering a wide range of products, from books and clothes to furniture and food.  
-This capstone project analyzes Unicorn’s sales data from **2015 to 2018** to uncover insights that drive growth and improve profitability.
-
-The goal is to demonstrate data analysis, visualization, and business insight skills using **SQL**, **Excel**, and **Tableau**.
+## Project Purpose  
+Unicorn, a dynamic e-commerce platform, sells everything from books and clothes to furniture and food.  
+This project analyzed **sales data (2015–2018)** to identify **growth opportunities**, spot underperforming areas, and demonstrate applied **data analysis & visualization** skills:contentReference[oaicite:0]{index=0}.  
 
 ---
 
-## 🛠️ Tools & Technologies
-- **SQL**: Data exploration & querying
-- **Excel**: Data cleaning & in-depth analysis
-- **Tableau**: Data visualization dashboards
+##  What We Did  
+➤ Collected and cleaned **4 years of transactional data** (2015–2018)  
+➤ Analyzed **profitability by city, customer, category, and segment**  
+➤ Investigated **monthly profit fluctuations** in 2018  
+➤ Profiled **top customers, discounts, and product manufacturers**  
+➤ Highlighted **growth opportunities in segments and regions**  
 
 ---
 
-## ✨ Key Business Insights
-- 📍 **New York City** was the most profitable city in 2015, generating **$14,753** in profit  
-- ⚠️ **Lebanon, TN** identified as an underperforming area requiring attention  
-- 📈 Profit **peaks occurred in March and September 2018**, while **April** saw a sharp drop  
-- 💸 **Sean Miller** was the highest-spending customer ($25,042), but received **excessive discounts** ($23,930)  
-- 🪑 **Furniture** was the most profitable category in **Iowa**, with an average of **$130.25** per product  
-- 🧾 **Office Supplies** contributed the most to sales (57.19%), followed by Technology (22.27%) and Furniture (20.54%)  
-- 🖨️ **Canon** led in profitability per product ($1,269.8), while **3D Systems** had the highest average product price ($1,300)
+## Tools & Analysis  
+🗄️ **[SQL Exploration](https://github.com/bagdatsarikas/unicorn-project/blob/main/unicorn.sql)** →
+   - Queried raw data, grouped by city, category, customer, and segment  
+
+📑 **[Excel Report](https://docs.google.com/spreadsheets/d/1mUdTqTfnpgD4yP1v1yo2VzFfWrQnBjKTZXD4sM7muDY/edit?usp=sharing)** →  
+   - Performed **aggregations and trend analysis**  
+   - Built **pivot tables & charts** for profitability by region/segment  
+   - Highlighted spikes/drops in monthly profits  
+
+📈 **Tableau Dashboard** →  
+   - Interactive visualizations of sales trends and segment breakdowns  
+   - Geographic profitability maps  
+   - Profitability by product manufacturer  
+
+📄 **[Full PDF Report](./UNICORN.pdf)** →  
+   - Complete methodology, executive summary, and recommendations:contentReference[oaicite:1]{index=1}  
 
 ---
 
-## 📈 Recommendations
-- Expand efforts in **high-performing markets** like NYC  
-- Reevaluate **discount strategies** to protect profit margins  
-- Boost growth in **Corporate and Home Office** segments with targeted promotions  
-- Investigate **profit drops in April** and adjust future seasonal strategies  
-- Optimize product and pricing strategies for **Canon** and **3D Systems**
+## 📈 Key Results  
+➤ **Most Profitable City (2015):** New York City ($14,753 profit):contentReference[oaicite:2]{index=2}  
+➤ **Top Customer:** Sean Miller (spent $25,042, received $23,930 in discounts):contentReference[oaicite:3]{index=3}  
+➤ **Category Spotlight:** Furniture in Iowa → Avg. $130.25 profit per product:contentReference[oaicite:4]{index=4}  
+➤ **Customer Segments (2015–2018):**  
+   - Consumer: 410 customers  
+   - Corporate: 237 customers  
+   - Home Office: 148 customers:contentReference[oaicite:5]{index=5}  
+➤ **Profit Trends (2018):**  
+   - Surge in March ($14,758)  
+   - Sharp drop in April ($934)  
+   - Another peak in September ($10,987):contentReference[oaicite:6]{index=6}  
+➤ **Product Mix:**  
+   - Office Supplies = 57.19% of sales  
+   - Technology = 22.27%  
+   - Furniture = 20.54%:contentReference[oaicite:7]{index=7}  
+➤ **Top Manufacturer:** Canon → Avg. $1,269.8 profit per product:contentReference[oaicite:8]{index=8}  
 
 ---
 
-## 📂 Project Components
-| Component              | Tool     |  LINK |
-|------------------------|----------|
-| Data Exploration       | SQL      |#https://github.com/bagdatsarikas/unicorn-project/blob/main/unicorn.sql
-| Data Cleaning&Analysis | Excel    |#https://docs.google.com/spreadsheets/d/1mUdTqTfnpgD4yP1v1yo2VzFfWrQnBjKTZXD4sM7muDY/edit?usp=sharing
-| Data Visualization     | Tableau  |
+## 💡 Outcome & Recommendations  
+🚀 **Accomplishment:** Delivered a 4-year multi-dimensional sales analysis with clear business insights.  
+💡 **Business Value:**  
+- Double down on high-profit cities (e.g., New York City)  
+- Target growth in Corporate & Home Office segments with personalized campaigns  
+- Expand profitable categories (Furniture in Iowa, Canon products)  
+- Reevaluate **discount strategy** for high-spending customers  
+🔄 **Next Step:** Investigate sharp profit declines (e.g., April 2018) and build preventive strategies:contentReference[oaicite:9]{index=9}  
 
 ---
 
+## ✍️ Author  
+**Bağdat Sarıkaş** — Data Analytics & Business Insights
 
