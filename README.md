@@ -30,7 +30,7 @@ This project analyzed **sales data (2015–2018)** to identify **growth opportun
    - Geographic profitability maps  
    - Profitability by product manufacturer  
 
-📄 **[Full PDF Report](./UNICORN.pdf)** →  
+📄 **[Full PDF Report](https://docs.google.com/document/d/1TY6gIy-jpgGWRNkV8386LgpajVJsJfjOZO_FBsIgpnM/edit?tab=t.0)** →  
    - Complete methodology, executive summary, and recommendations:contentReference[oaicite:1]{index=1}  
 
 ---
