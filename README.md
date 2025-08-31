@@ -25,7 +25,7 @@ This project analyzed **sales data (2015–2018)** to identify **growth opportun
    - Built **pivot tables & charts** for profitability by region/segment  
    - Highlighted spikes/drops in monthly profits  
 
-📈 **Tableau Dashboard** →  
+📈 **[Tableau Dashboard](https://public.tableau.com/authoring/unicorn_17199700632230/2018monthlyprofitprofitdifference#1)**  →  
    - Interactive visualizations of sales trends and segment breakdowns  
    - Geographic profitability maps  
    - Profitability by product manufacturer  
